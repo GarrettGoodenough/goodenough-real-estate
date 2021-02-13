@@ -1,8 +1,8 @@
 import styled from "styled-components/macro";
 import { Link } from "react-router-dom";
 import { IoMdArrowRoundForward } from "react-icons/io";
-import HomeOne from "../images/listing-1.jpg";
-import HomeTwo from "../images/listing-2.jpg";
+import HomeOne from "../images/listing-1-min.jpg";
+import HomeTwo from "../images/listing-2-min.jpg";
 
 const Section = styled.section`
   width: 100%;
